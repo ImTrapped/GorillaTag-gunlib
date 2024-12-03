@@ -1,4 +1,7 @@
-dependencies are these
+//created by @iamtrapped_01310 and @matrixx_fuckyou  
+//side notes: matrixx made most of it
+
+//dependencies are these
 using System;
 using System.Collections.Generic;
 using System.Linq;
