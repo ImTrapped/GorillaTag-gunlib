@@ -12,10 +12,11 @@ using UnityEngine.XR;
 using Photon.Pun;
 
 
-below is the gun lib and a example
-feel free to use it
+//below is the gun lib and a example
+//feel free to use it
 
-
+namespace Example.NameSpace
+{
 
     internal class GunTemp
     {
